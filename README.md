@@ -12,7 +12,7 @@ Estou em fase de conclusão do Ensino Médio via ENCCEJA, com resultado previsto
 **O que você vai encontrar aqui neste perfil:**
 Este repositório reúne meus estudos práticos documentados em vídeo. Cada teste tem um relatório no Jira e um vídeo curto mostrando o teste funcionando na prática.
 
-🔹 **Meu quadro no Jira com todos os relatórios:** [Clique aqui para acessar](https://edmilsonanalyst.atlassian.net/jira/software/projects/PQEB/boards/4?filter=&groupBy=none&atOrigin=eyJpIjoiNTYzYmFDM2Q2YmQ0NDEzMzk3Nzk3MzM3MTVIZmYyYNDZkYzciLCJwIjoiJ9)
+🔹 **Meu Jira com todos os relatórios:** [Clique aqui para acessar](https://edmilsonanalyst.atlassian.net/)
 
 **Meus estudos práticos em vídeo:**
 
