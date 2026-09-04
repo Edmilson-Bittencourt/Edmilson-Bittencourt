@@ -24,6 +24,7 @@ Este repositório reúne meus estudos práticos documentados em vídeo. Cada tes
 - [Teste de Segurança com Postman](https://youtu.be/bf7c8-UFbw)
 - [Validação de API com Postman](https://youtu.be/xf6EGhtQqOo)
 - [Automação dupla com Cypress](https://youtu.be/LK_p_2CGfBU)
+- [Automação dupla com Selenium]([https://youtu.be/LK_p_2CGfBU](https://youtu.be/ZpsDFPl-v3g)])
 - [Documentação no Jira](https://youtu.be/fGWuvw8DPgk)
 
 > 💡 Dica: Lembre de mudar a resolução para 1080p quando você assistir!
