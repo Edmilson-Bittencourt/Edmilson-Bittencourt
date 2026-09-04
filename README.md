@@ -31,9 +31,9 @@ Este repositório reúne meus estudos práticos documentados em vídeo. Cada tes
 
 ### 📜 Certificações
 
-🏅 **Testes de Software Manual** - Udemy - `03h` | [📄 Ver certificado](https://www.udemy.com/certificate/UC-4deb92b6-6e71-49b7-afb0-0b5532d8c04b/)
+🏅 **Testes de Software Manuais** - Udemy - `03h` | [📄 Ver certificado](https://www.udemy.com/certificate/UC-4deb92b6-6e71-49b7-afb0-0b5532d8c04b/)
 
-🏅 **Testes de Software Automatizado** - Udemy - `05h` | [📄 Ver certificado](https://www.udemy.com/certificate/UC-c299af1c-7f36-41cc-a407-702a0daa6233/)
+🏅 **Testes de Software Automatizados** - Udemy - `05h` | [📄 Ver certificado](https://www.udemy.com/certificate/UC-c299af1c-7f36-41cc-a407-702a0daa6233/)
 
 🏅 **Aprendendo com Python** - ENAP / EV.G - `10h`  | [📄 Ver Certificado](https://drive.google.com/drive/folders/1q9I_zGE_nAwOdigGFhOb-7Sw7o8QvqBI)
 
