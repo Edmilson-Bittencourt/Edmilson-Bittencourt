@@ -26,6 +26,8 @@ Este repositório reúne meus estudos práticos documentados em vídeo. Cada tes
 - [Automação dupla com Cypress](https://youtu.be/LK_p_2CGfBU)
 - [Automação com Selenium](https://youtu.be/Ei_FvMhd_oA)
 - [Documentação no Jira](https://youtu.be/fGWuvw8DPgk)
+- [Validação de API completa com Postman 12 min](https://youtu.be/gV0qjZ-VqAo)
+- [Como é composta uma API REST](https://youtu.be/AIRQIWr6Kho)
 
 > 💡 Dica: Lembre de mudar a resolução para 1080p quando você assistir!
 
