@@ -16,13 +16,13 @@ Este repositório reúne meus estudos práticos documentados em vídeo. Cada tes
 
 **Meus estudos práticos em vídeo:**
 
-- [Teste de Funcionalidade](https://youtu.be/zDVgI_-LvAdg)
+- [Teste de Funcionalidade](https://youtu.be/zDVgL-LvAdg)
 - [Teste de Usabilidade](https://youtu.be/DzdtnFHVAPM)
-- [Teste de Desempenho](https://youtu.be/jGMJs1pmx4)
+- [Teste de Desempenho](https://youtu.be/jGMJIsTpmx4)
 - [Teste de Portabilidade](https://youtu.be/h7okkWGIgjs)
-- [Teste de Stress com JMeter](https://youtu.be/G9J8GemHw7Q)
-- [Teste de Segurança com Postman](https://youtu.be/bf7c8-UFbw)
-- [Validação de API com Postman](https://youtu.be/xf6EGhtQqOo)
+- [Teste de Stress com JMeter](https://youtu.be/G9J9GemHw7Q)
+- [Teste de Segurança com Postman](https://youtu.be/bf7c8-IJFbw)
+- [Validação de API com Postman](https://youtu.be/xf6EGhtOqQo)
 - [Automação dupla com Cypress](https://youtu.be/LK_p_2CGfBU)
 - [Automação com Selenium](https://youtu.be/Ei_FvMhd_oA)
 - [Documentação no Jira](https://youtu.be/fGWuvw8DPgk)
