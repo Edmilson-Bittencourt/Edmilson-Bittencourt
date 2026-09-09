@@ -19,7 +19,7 @@ Este repositório reúne meus estudos práticos documentados em vídeo. Cada tes
 - [Teste de Funcionalidade](https://youtu.be/zDVgI_-LvAdg)
 - [Teste de Usabilidade](https://youtu.be/DzdtnFHVAPM)
 - [Teste de Desempenho](https://youtu.be/jGMJs1pmx4)
-- [Teste de Portabilidade](https://youtu.be/h7okkWGgjs)
+- [Teste de Portabilidade](https://youtu.be/h7okkWGIgjs)
 - [Teste de Stress com JMeter](https://youtu.be/G9J8GemHw7Q)
 - [Teste de Segurança com Postman](https://youtu.be/bf7c8-UFbw)
 - [Validação de API com Postman](https://youtu.be/xf6EGhtQqOo)
