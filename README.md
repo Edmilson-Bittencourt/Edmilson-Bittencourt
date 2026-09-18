@@ -14,6 +14,8 @@ No meu tempo livre estudo inglês e espanhol (nível básico, como hobby) para n
 ### 🚀 Portfólio ao vivo
 **https://edmilson-bittencourt.github.io/Edmilson-Bittencourt-Sites/**
 
+Acesso aos códigos nos Repositórios Pinados
+
 ### 💼 Experiência
 **Desenvolvedor Web Freelancer - Autônomo | Remoto**
 *jan de 2025 - o momento*
