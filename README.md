@@ -1,21 +1,34 @@
-# 🕵🏼‍♂️ Edmilson Bittencourt
+# Edmilson Bittencourt
+### Desenvolvedor Front-end Júnior | Landing Pages & Sites de Alta Conversão | HTML, CSS, JavaScript | Conhecimentos em QA e Testes Automatizados
 
-**QA Engineer - Manual & Automation testing**
+📍 Cidreira, RS - Brasil | 💼 Buscando oportunidade 100% Remota
 
-### Olá, recrutador! 👋
+### Sobre mim
+Sou Desenvolvedor Web Júnior com foco em Front-end, especializado na criação de Landing Pages e sites profissionais que geram resultado para pequenos negócios.
+Saí da área de construção civil e terraplanagem para a tecnologia, onde encontrei o que realmente gosto de fazer: transformar uma ideia em um site rápido, bonito e que funciona de verdade.
+Meu diferencial é a mentalidade de qualidade: com conhecimentos em QA, testo tudo antes de entregar para garantir que o site não quebre quando o cliente mais precisa.
+Estudo DevOps no meu tempo livre para garantir que os projetos fiquem sempre no ar, rápidos e seguros.
 
-Sou o Edmilson Bittencourt, 24 anos, do Rio Grande do Sul.
-Sou QA Analyst Junior em transição de carreira, com foco em garantir a qualidade e a confiança do software que chega ao usuário final.
+No meu tempo livre estudo inglês e espanhol (nível básico, como hobby) para no futuro atender projetos internacionais.
 
-Estou em fase de conclusão do Ensino Médio via ENCCEJA, com resultado previsto para dezembro, e com planejamento para iniciar a graduação em Análise e Desenvolvimento de Sistemas no próximo ano. Atualmente estou 100% dedicado aos estudos práticos em Quality Assurance.
+### 🚀 Portfólio ao vivo
+**https://edmilson-bittencourt.github.io/Edmilson-Bittencourt-Sites/**
 
-**O que você vai encontrar aqui neste perfil:**
-Este repositório reúne meus estudos práticos documentados em vídeo. Cada teste tem um relatório no Jira e um vídeo curto mostrando o teste funcionando na prática.
+### 💼 Experiência
+**Desenvolvedor Web Freelancer - Autônomo | Remoto**
+*jan de 2025 - o momento*
+Desenvolvimento de landing pages responsivas, otimizadas para conversão, com foco em performance e testes de qualidade.
 
-🔹 **Meu Jira com todos os relatórios:** [Clique aqui para acessar](https://edmilsonanalyst.atlassian.net/)
+### 🛠️ Stack
+**Stack principal:** HTML, CSS, JavaScript, Git, GitHub.
+**Conhecimentos que agregam:** QA Manual, Cypress, Selenium, Postman, Python.
 
-**Meus estudos práticos em vídeo:**
+### 📚 Estudos práticos em QA - 100% documentados
+Essa é minha base de qualidade que uso hoje para entregar sites sem bugs. Cada teste tem relatório no Jira e vídeo.
 
+**🔗 Meu Jira com todos os relatórios:** https://edmilsonanalyst.atlassian.net/
+
+**Vídeos:**
 - [Teste de Funcionalidade](https://youtu.be/zDVgL-LvAdg)
 - [Teste de Usabilidade](https://youtu.be/DzdtnFHVAPM)
 - [Teste de Desempenho](https://youtu.be/jGMJIsTpmx4)
@@ -29,16 +42,19 @@ Este repositório reúne meus estudos práticos documentados em vídeo. Cada tes
 - [Validação de API completa com Postman 12 min](https://youtu.be/gV0qjZ-VqAo)
 - [Como é composta uma API REST](https://youtu.be/AIRQIWr6Kho)
 
-> 💡 Dica: Lembre de mudar a resolução para 1080p quando você assistir!
+> 💡 Mude para 1080p para melhor qualidade.
 
-### 📜 Certificações
+### 📜 Licenças e Certificados (3)
+- **Testes Automatizados** - Udemy - Emitida em ago de 2026
+- **Testes de Software Manuais** - Udemy - 03h
+- **Aprendendo com Python** - ENAP / Escola Nacional de Administração Pública - Emitida em jun de 2026 - 10h
 
-🏅 **Testes de Software Manuais** - Udemy - `03h` | [📄 Ver certificado](https://www.udemy.com/certificate/UC-4deb92b6-6e71-49b7-afb0-0b5532d8c04b/)
+### 🎓 Formação
+**Ensino Médio Completo - MEC / INEP - Via ENCCEJA**
+*Conclusão: dez de 2026*
 
-🏅 **Testes de Software Automatizados** - Udemy - `05h` | [📄 Ver certificado](https://www.udemy.com/certificate/UC-c299af1c-7f36-41cc-a407-702a0daa6233/)
-
-🏅 **Aprendendo com Python** - ENAP / EV.G - `10h`  | [📄 Ver Certificado](https://drive.google.com/drive/folders/1q9I_zGE_nAwOdigGFhOb-7Sw7o8QvqBI)
-
+### 🌐 Idiomas
+**Português** - Fluente ou nativo
 
 ---
-**Tech Stack:** Cypress | Postman | JMeter | Jira | JavaScript | Python
+**Aberto para vagas de: Analista de QA, Analista de Testes, Desenvolvedor Web e Desenvolvedor Front-end - 100% Remoto.**
