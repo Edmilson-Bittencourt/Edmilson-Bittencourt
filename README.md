@@ -1,5 +1,5 @@
 # Edmilson Bittencourt
-### QA Engineer Júnior | Testes Manuais | Foco em Qualidade | Conhecimentos em Desenvolvimento de Front-End
+### QA Engineer Júnior | Testes Manuais | Foco em Qualidade | Conhecimentos em Testes Automatizados com Cypress e Desenvolvimento de Front-End
 
 📍 Cidreira, RS - Brasil | 💼 Buscando oportunidade 100% Remota
 
