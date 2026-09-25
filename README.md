@@ -12,7 +12,7 @@ Estudo DevOps no meu tempo livre para garantir que os projetos fiquem sempre no 
 No meu tempo livre estudo inglês e espanhol (nível básico, como hobby) para no futuro atender projetos internacionais.
 
 ### 🚀 Portfólio ao vivo
-**https://edmilson-bittencourt.github.io/Edmilson-Bittencourt-Sites/**
+**[Portfólio](https://edmilson-bittencourt-sites.vercel.app/)**
 
 Acesso aos códigos nos Repositórios Pinados
 
@@ -28,7 +28,7 @@ Desenvolvimento de landing pages responsivas, otimizadas para conversão, com fo
 ### 📚 Estudos práticos em QA - 100% documentados
 Essa é minha base de qualidade que uso hoje para entregar sites sem bugs. Cada teste tem relatório no Jira e vídeo.
 
-**🔗 Meu Jira com todos os relatórios:** https://edmilsonanalyst.atlassian.net/
+**🔗 Meu Jira com todos os relatórios:** [Meu Jira](https://edmilsonanalyst.atlassian.net/)
 
 **Vídeos:**
 - [Teste de Funcionalidade](https://youtu.be/zDVgL-LvAdg)
