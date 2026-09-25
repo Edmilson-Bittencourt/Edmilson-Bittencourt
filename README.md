@@ -1,15 +1,19 @@
 # Edmilson Bittencourt
-### Desenvolvedor Front-end Júnior | Landing Pages & Sites de Alta Conversão | HTML, CSS, JavaScript | Conhecimentos em QA e Testes Automatizados
+### QA Engineer Júnior | Testes Manuais | Foco em Qualidade | Conhecimentos em Desenvolvimento de Front-End
 
 📍 Cidreira, RS - Brasil | 💼 Buscando oportunidade 100% Remota
 
 ### Sobre mim
-Sou Desenvolvedor Web Júnior com foco em Front-end, especializado na criação de Landing Pages e sites profissionais que geram resultado para pequenos negócios.
-Saí da área de construção civil e terraplanagem para a tecnologia, onde encontrei o que realmente gosto de fazer: transformar uma ideia em um site rápido, bonito e que funciona de verdade.
-Meu diferencial é a mentalidade de qualidade: com conhecimentos em QA, testo tudo antes de entregar para garantir que o site não quebre quando o cliente mais precisa.
-Estudo DevOps no meu tempo livre para garantir que os projetos fiquem sempre no ar, rápidos e seguros.
+QA Engineer Júnior | Testes Manuais | Foco em Qualidade
 
-No meu tempo livre estudo inglês e espanhol (nível básico, como hobby) para no futuro atender projetos internacionais.
+Em transição de carreira para tecnologia, encontrei na área de Quality Assurance o que realmente gosto de fazer: garantir que um produto funcione de verdade antes de chegar no cliente.
+
+Tenho como hobby e como parte do meu portfólio a criação de Landing Pages e sites, o que me deu uma visão forte de Front-end e de comportamento do usuário. Isso me ajuda a encontrar bugs de usabilidade e layout que passariam batido.
+
+Conhecimentos: Testes Manuais, Casos de Teste, Bug Report, Postman, Jira, JMeter.
+Conhecimentos básicos em Cypress, Selenium e Python.
+Conhecimentos básicos em HTML, CSS, JavaScript Python e GitHub.
+
 
 ### 🚀 Portfólio ao vivo
 **[Portfólio](https://edmilson-bittencourt-sites.vercel.app/)**
